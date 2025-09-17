@@ -1,8 +1,13 @@
+[my-helix-guide.md](https://github.com/user-attachments/files/22385648/my-helix-guide.md)
 ---
 title: "Helix guide"
 author: "Tey"
 date: 2025-09-17
-description: "This is short helix guide."
-image: "/img/community/CoderTey/helixguide.png"
+
 ---
+
+# Helix guide - best code editor for nix?
+This guide will show how to set up Helix on linux 
+
+
 ![Short helix guide](/img/community/CoderTey/helixguide.png)  
