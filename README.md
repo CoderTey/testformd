@@ -28,11 +28,11 @@ Helix is post modern text editor but im using to configure my nixos config
 ---
 
 ---
-###Step 2: Navigate to .config then type mkdir -p helix 
+### Step 2: Navigate to .config then type mkdir -p helix 
 ---
 
 ---
-###Step 3: type cd helix and then run command touch config.toml dont worry about C-g its git support if you want you can change your theme
+### Step 3: type cd helix and then run command touch config.toml dont worry about C-g its git support if you want you can change your theme
 ## here is my config.toml:
 theme = "tokyonight"
 [keys.normal]
@@ -79,7 +79,7 @@ args = []
 ---
 
 ---
-###Step 5: run this command hx 
+### Step 5: run this command hx 
 ---
 
 ---
